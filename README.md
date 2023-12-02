@@ -1,4 +1,4 @@
-# Py-Obfuscate
+# Py
 Obfuscate original the code python3.11 No Deobfuscated
 
 # `install`
